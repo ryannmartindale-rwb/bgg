@@ -5,7 +5,6 @@ gameid,url,price,currency,enabled,show_from
 3712,https://www.usedgames.ca/tac-air.html?source=bgg,49.95,CAD,1,1
 1681,https://www.usedgames.ca/tokyo-express.html?source=bgg,99.95,CAD,1,1
 2407,https://www.usedgames.ca/sorry.html?source=bgg,9.95,CAD,1,1
-14379,https://www.usedgames.ca/happy-potter-and-the-sorcerers-stone.html?source=bgg,19.95,CAD,1,1
 32253,https://www.usedgames.ca/caveman.html?source=bgg,39.95,CAD,1,1
 6676,https://www.usedgames.ca/sports-franchise.html?source=bgg,29.95,CAD,1,1
 13,https://www.usedgames.ca/the-settlers-of-catan-board-game-200334291487-used.html?source=bgg,29.95,CAD,1,1
@@ -46,6 +45,7 @@ gameid,url,price,currency,enabled,show_from
 67488,https://www.usedgames.ca/too-bad.html?source=bgg,14.95,CAD,1,1
 54152,https://www.usedgames.ca/who-wants-to-be-a-millionaire.html?source=bgg,24.95,CAD,1,1
 166532,https://www.usedgames.ca/cubo.html?source=bgg,4.95,CAD,1,1
+16013,https://www.usedgames.ca/endeavor-eleven.html?source=bgg,59.95,CAD,1,1
 2921,https://www.usedgames.ca/the-game-of-life-2007.html?source=bgg,29.95,CAD,1,1
 4574,https://www.usedgames.ca/slang-teasers-34678944.html?source=bgg,44.95,CAD,1,1
 4574,https://www.usedgames.ca/slang-teasers-1st-edition.html?source=bgg,39.95,CAD,1,1
@@ -432,6 +432,7 @@ gameid,url,price,currency,enabled,show_from
 6624,https://www.usedgames.ca/plott-adventures-in-space-board-game.html?source=bgg,19.00,CAD,1,1
 12232,https://www.usedgames.ca/wall-street-spin-board-games-nis.html?source=bgg,29.00,CAD,1,1
 25,https://www.usedgames.ca/copy-of-battlemist-board-game-the-stars-of-timorra.html?source=bgg,79.00,CAD,1,1
+6552,https://www.usedgames.ca/cashflow-investing-101-board-game-used-2002.html?source=bgg,49.95,CAD,1,1
 40629,https://www.usedgames.ca/copy-of-bakong-2009.html?source=bgg,12.95,CAD,1,1
 2845,https://www.usedgames.ca/star-fist.html?source=bgg,19.95,CAD,1,1
 25,https://www.usedgames.ca/copy-of-battlemist-board-game-the-stars-of-timorra.html?source=bgg,69.95,CAD,1,1
@@ -513,7 +514,6 @@ gameid,url,price,currency,enabled,show_from
 1248,https://www.usedgames.ca/hacker-ii-the-dark-side-nis-1993.html?source=bgg,49.95,CAD,1,1
 4515,https://www.usedgames.ca/boundary-used-board-game-1970.html?source=bgg,14.95,CAD,1,1
 28636,https://www.usedgames.ca/marenko-the-phrase-game-used-board-game-1985.html?source=bgg,19.95,CAD,1,1
-810,https://www.usedgames.ca/amoeba-1975.html?source=bgg,12.95,CAD,1,1
 8009,https://www.usedgames.ca/where-in-the-world-is-carmen-sandiego-used-board-g.html?source=bgg,12.95,CAD,1,1
 3173,https://www.usedgames.ca/the-world-of-wall-street-1969.html?source=bgg,19.95,CAD,1,1
 7360,https://www.usedgames.ca/the-mating-game-board-game-1969.html?source=bgg,14.95,CAD,1,1
@@ -718,7 +718,7 @@ gameid,url,price,currency,enabled,show_from
 40990,https://www.usedgames.ca/word-on-the-street-2009-used.html?source=bgg,19.95,CAD,1,1
 714,https://www.usedgames.ca/talisman-revised-4th-edition-2007-this-is-4th-edit.html?source=bgg,140.95,CAD,1,1
 32391,https://www.usedgames.ca/battlelore-scottish-wars-2007.html?source=bgg,59.00,CAD,1,1
-7866,https://www.usedgames.ca/10-days-in-the-usa-2003-nis.html?source=bgg,39.95,CAD,1,1
+7866,https://www.usedgames.ca/10-days-in-the-usa-2003-nis.html?source=bgg,43.61,CAD,1,1
 6854,https://www.usedgames.ca/cranium-booster-box-1-1999-nis.html?source=bgg,15.95,CAD,1,1
 140068,https://www.usedgames.ca/galaxy-trucker-anniversary-edition-2012-used.html?source=bgg,144.95,CAD,1,1
 178900,https://www.usedgames.ca/codenames-2015-nis.html?source=bgg,28.95,CAD,1,1
@@ -731,3 +731,5 @@ gameid,url,price,currency,enabled,show_from
 5195,https://www.usedgames.ca/the-farming-game-1996-used.html?source=bgg,29.95,CAD,1,1
 8008,https://www.usedgames.ca/the-construction-game-2002-used.html?source=bgg,234.95,CAD,1,1
 5021,https://www.usedgames.ca/the-struggle-of-nations-1982-used-unpunched-685641.html?source=bgg,49.95,CAD,1,1
+1501,https://www.usedgames.ca/masterpiece-1970-used.html?source=bgg,34.95,CAD,1,1
+1501,https://www.usedgames.ca/copy-of-masterpiece-1970-used.html?source=bgg,39.95,CAD,1,1
