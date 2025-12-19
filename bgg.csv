@@ -114,8 +114,6 @@ gameid,url,price,currency,enabled,show_from
 9473,https://www.usedgames.ca/adam-eva-46977959.html?source=bgg,24.95,CAD,1,1
 1549,https://www.usedgames.ca/password-volume-8.html?source=bgg,14.95,CAD,1,1
 1549,https://www.usedgames.ca/copy-of-password-volume-8.html?source=bgg,14.95,CAD,1,1
-2639,https://www.usedgames.ca/panzer-leader-1974.html?source=bgg,49.95,CAD,1,1
-1717,https://www.usedgames.ca/freedom-in-the-galaxy-the-star-rebellions-5764-ad.html?source=bgg,49.95,CAD,1,1
 139,https://www.usedgames.ca/hoax-1981.html?source=bgg,49.95,CAD,1,1
 310,https://www.usedgames.ca/wizards-quest-1979.html?source=bgg,29.95,CAD,1,1
 3549,https://www.usedgames.ca/superpower-1986.html?source=bgg,24.95,CAD,1,1
@@ -252,7 +250,6 @@ gameid,url,price,currency,enabled,show_from
 5515,https://www.usedgames.ca/grand-master-1986.html?source=bgg,49.95,CAD,1,1
 93001,https://www.usedgames.ca/ice-dice-2011.html?source=bgg,24.95,CAD,1,1
 3951,https://www.usedgames.ca/octrix-1970.html?source=bgg,14.95,CAD,1,1
-11845,https://www.usedgames.ca/queriesn-theories-1970.html?source=bgg,19.95,CAD,1,1
 2153,https://www.usedgames.ca/grav-armor-1982.html?source=bgg,19.95,CAD,1,1
 1792,https://www.usedgames.ca/star-viking-1981.html?source=bgg,24.95,CAD,1,1
 57702,https://www.usedgames.ca/monopoly-championship-edition-2009.html?source=bgg,9.95,CAD,1,1
@@ -469,7 +466,6 @@ gameid,url,price,currency,enabled,show_from
 121787,https://www.usedgames.ca/ryu-used-board-game-2015.html?source=bgg,14.95,CAD,1,1
 29581,https://www.usedgames.ca/tomb-nis-2008.html?source=bgg,99.95,CAD,1,1
 257759,https://www.usedgames.ca/the-river-nis-2018-hidden.html?source=bgg,39.95,CAD,1,1
-126996,https://www.usedgames.ca/kings-forge-used-board-game-2014.html?source=bgg,39.95,CAD,1,1
 191065,https://www.usedgames.ca/castle-flutterstone-nis-2016.html?source=bgg,29.95,CAD,1,1
 178570,https://www.usedgames.ca/unusual-suspects-used-board-game2015.html?source=bgg,59.95,CAD,1,1
 109779,https://www.usedgames.ca/garden-dice-used-board-game-2012-garden-dice-the-c.html?source=bgg,49.95,CAD,1,1
@@ -571,7 +567,6 @@ gameid,url,price,currency,enabled,show_from
 93001,https://www.usedgames.ca/icedice-nis-dice-game-2011.html?source=bgg,34.95,CAD,1,1
 20195,https://www.usedgames.ca/six-used-board-game-2008.html?source=bgg,9.95,CAD,1,1
 590,https://www.usedgames.ca/mille-bornes-used-card-game-1971.html?source=bgg,9.95,CAD,1,1
-11845,https://www.usedgames.ca/queries-n-theories-used-board-game-1970.html?source=bgg,24.95,CAD,1,1
 7548,https://www.usedgames.ca/hoo-dee-nee-used-board-game-1983.html?source=bgg,13.95,CAD,1,1
 11829,https://www.usedgames.ca/word-nerd-used-board-game-1979.html?source=bgg,8.45,CAD,1,1
 6803,https://www.usedgames.ca/pacru-used-board-game-2004-incomplete-missing-3-ma.html?source=bgg,9.95,CAD,1,1
@@ -723,3 +718,10 @@ gameid,url,price,currency,enabled,show_from
 126996,https://www.usedgames.ca/kings-forge-2014.html?source=bgg,47.95,CAD,1,1
 363841,https://www.usedgames.ca/snap-ships-tactics-starter-box-2023-used-board-gam.html?source=bgg,94.95,CAD,1,1
 7824,https://www.usedgames.ca/break-the-safe-2003-used-safe-has-not-been-tested.html?source=bgg,34.95,CAD,1,1
+62222,https://www.usedgames.ca/command-and-colors-napoleonics-bundle-base-expansi.html?source=bgg,649.95,CAD,1,1
+447793,https://www.usedgames.ca/ringer-2025-nis-card-game.html?source=bgg,22.95,CAD,1,1
+412123,https://www.usedgames.ca/ape-town-2025.html?source=bgg,54.95,CAD,1,1
+381078,https://www.usedgames.ca/comet-2023-nis-board-game.html?source=bgg,69.95,CAD,1,1
+281961,https://www.usedgames.ca/pappy-winchester-2019-nis-board-game.html?source=bgg,49.95,CAD,1,1
+54625,https://www.usedgames.ca/space-hulk-third-edition-2009-nis-board-game.html?source=bgg,474.95,CAD,1,1
+284472,https://www.usedgames.ca/second-thoughts-2017-nis-board-game.html?source=bgg,37.95,CAD,1,1
